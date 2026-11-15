@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "name": "Contributor Onboarding",
+      "owner": "Mona Patel",
+      "status": "In progress",
+      "recentActivity": "Updated the local setup guide yesterday",
+      "priority": "High",
+      "summary": "Make the first contribution easier with a tested setup path and clearer starter tasks."
+    },
+    {
+      "name": "API Reliability",
+      "owner": "Jordan Lee",
+      "status": "Active",
+      "recentActivity": "Added retry coverage to the integration suite this week",
+      "priority": "Medium",
+      "summary": "Improve service resilience; contributors can help review retry behavior and edge cases."
+    },
+    {
+      "name": "Design System Refresh",
+      "owner": "Sam Rivera",
+      "status": "Planning",
+      "recentActivity": "Collected component feedback from maintainers",
+      "priority": "Low",
+      "summary": "Consolidate reusable interface patterns and document accessible component guidance."
+    }
+  ]
+}
